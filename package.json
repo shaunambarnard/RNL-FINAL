@@ -1,0 +1,31 @@
+## Local Development
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start development server: `npm start`
+4. Open http://localhost:3000
+
+## Deployment
+
+This project is optimized for **Vercel** deployment:
+
+1. Push to GitHub
+2. Connect repository to Vercel
+3. Deploy automatically on push
+
+## About Rio Nido Lodge
+
+Historic Tudor-style lodge nestled in the redwoods of Sonoma County's Russian River region. Features restored accommodations, mercantile & cafe, and rich musical heritage dating back to the 1920s.
+
+## Business Database
+
+Includes 25+ local businesses across categories:
+- Wineries (Korbel, Williams Selyem, Iron Horse, etc.)
+- Restaurants (River's End, Terrapin Creek, Farmhouse Inn, etc.)
+- Outdoor Activities (Armstrong Redwoods, Goat Rock Beach, etc.)
+- Wellness & Spas (Osmosis, June Bug, Ratna Ling, etc.)
+- Adventure Experiences (Zip-lining, Hot Air Balloons, Foraging, etc.)
+
+## License
+
+Created for Rio Nido Lodge - Sonoma County, California
